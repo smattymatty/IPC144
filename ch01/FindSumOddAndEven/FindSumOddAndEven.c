@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 int main() {
-    int N;                     // The upper limit, input by the user
-    int i;                     // Loop counter, representing the current 'term' or number
+    int N;                       // The upper limit, input by the user
+    int i;                       // Loop counter, representing the current 'term' or number
     long long int evensum = 0LL; // Variable to store the sum of even numbers, initialized to 0
     long long int oddsum = 0LL;  // Variable to store the sum of odd numbers, initialized to 0
 
